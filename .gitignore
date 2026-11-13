@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite*
+.secret.key
+data/
+data_large/
+reports/
+final_state.csv
+.pytest_cache/
